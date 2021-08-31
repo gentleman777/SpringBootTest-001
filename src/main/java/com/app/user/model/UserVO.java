@@ -7,6 +7,7 @@ import lombok.ToString;
 /*
  *  Author : CJKIM
  *  Date : 2021.8.31
+ *  Version : V1.2
  */
 
 @Data
