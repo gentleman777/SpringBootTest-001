@@ -4,6 +4,11 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.ToString;
 
+/*
+ *  Author : CJKIM
+ *  Date : 2021.8.31
+ */
+
 @Data
 @AllArgsConstructor
 @ToString
@@ -13,6 +18,8 @@ public class UserVO {
 	private String name;
 	private String phone;
 	private String address;
+	
+	
 //	public String getId() {
 //		return id;
 //	}
